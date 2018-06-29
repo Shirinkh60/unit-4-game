@@ -26,7 +26,7 @@ div.header{
 }
 .instructions  {
     float: left;
-   margin-top: 0;
+   margin-top: 50px;
    margin-left: 70px;
    color: white;
    font-size: 18px;
@@ -41,7 +41,7 @@ ol{
     border: 5px double  white;
     float: right;
     margin-right: 300px;
-    margin-top: 0px;
+    margin-top:50px;
     color: #ffffff;
     font-style: initial;
     width: 200px;
