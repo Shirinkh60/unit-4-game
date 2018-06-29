@@ -33,11 +33,11 @@ div.header{
    font-weight: bolder;
    border : 3px double white;
     width: 500px;
+    padding: 10px;
 }
-ol{ 
-    margin-top: 0;
-}
+
 .numberToMatch { 
+    text-align: center;
     border: 5px double  white;
     float: right;
     margin-right: 300px;
@@ -45,7 +45,7 @@ ol{
     color: #ffffff;
     font-style: initial;
     width: 200px;
-    padding: 3px;
+    padding: 10px;
 }
 .gems{
     float: right;
@@ -60,6 +60,7 @@ ol{
 	margin: 10px;
 }
 .winsAndLosses{
+    text-align: center;
     float: right;
     margin-top:10px;
     margin-right: 350px;
@@ -69,6 +70,7 @@ ol{
   
 }
 .userTotal{
+    text-align: center;
     color:#ffffff;
     margin-top:10px;
     float: right;
