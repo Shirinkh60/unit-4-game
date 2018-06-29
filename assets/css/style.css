@@ -36,6 +36,15 @@ div.header{
     padding: 10px;
 }
 
+ol{
+	list-style: decimal inside; 
+}
+ul {
+	list-style: disc inside;
+    text-indent: 20px;
+    line-height: 30px;
+}
+
 .numberToMatch { 
     text-align: center;
     border: 5px double  white;
